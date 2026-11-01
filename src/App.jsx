@@ -9,7 +9,7 @@ import BookingProcess from './sections/BookingProcess'
 import Timing from './sections/Timing'
 import TestimonialSection from './sections/TestimonialSection'
 import FAQs from './sections/FAQs'
-import CTA from './sections/Cta'
+import CTA from './sections/CTA'
 import Footer from './components/Footer'
 import LenisScroll from './components/LenisScroll'
 
